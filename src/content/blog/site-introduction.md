@@ -4,7 +4,7 @@ description: '简单介绍一下本站使用的模板、进行过的定制化改
 pubDate: '2026-03-14'
 categories: ['杂谈']
 tags: ['Astro', '博客', 'Reimu']
-cover: '/images/banner_desktop.webp'
+cover: ''
 ---
 
 ## 1. 为什么建立这个博客？
